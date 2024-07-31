@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 28 09:31:30 2019
-
-@author:vinayak sable 
+FINAL FOOD DETECTION CODE IS
 """
 
 import numpy as np         # dealing with arrays
