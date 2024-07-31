@@ -8,7 +8,7 @@ This project involves developing a machine learning model that can recognize foo
 
 + ### Data collection
 For this project I used two datasets:
-1. [FOODD]()
+1. [FOOD](https://www.kaggle.com/datasets/dansbecker/food-101/data)
 2. ECUST Food Dataset (ECUSTFD)
 
 >In this project I used 7 food items like apple, banana, carrot, cucumber, onion, orange and tomato which details given in table below
